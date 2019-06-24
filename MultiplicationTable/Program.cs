@@ -25,6 +25,8 @@ namespace MultiplicationTable
             {
                 Console.OutputEncoding = System.Text.Encoding.Unicode;
 
+                // skriver med Unicode
+
                 Console.WriteLine("\u250f\u2501\u2501\u2501\u2501\u2501\u2501\u2501" +
                                    "\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501" +
                                    "\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501" +
